@@ -5,3 +5,6 @@
 /// <reference path="respond.min.js" />
 /// <reference path="jquery.validate.js" />
 /// <reference path="jquery.validate.unobtrusive.min.js" />
+/// <reference path="angular-mocks.js" />
+/// <reference path="angular.min.js" />
+/// <reference path="app/quiz-controller.js" />
